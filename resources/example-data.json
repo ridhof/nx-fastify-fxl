@@ -1,0 +1,6 @@
+[
+  { "item": "Rent", "cost": 1000 },
+  { "item": "Gas", "cost": 100 },
+  { "item": "Food", "cost": 300 },
+  { "item": "Gym", "cost": 50 }
+]
