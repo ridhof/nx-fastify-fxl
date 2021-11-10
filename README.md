@@ -1,6 +1,6 @@
 # nx-fastify-fxl
 
-This is a Fastify setup that responds with Excel spreadsheet embedded in an Nx workspace.
+This is an example Fastify setup that contains an endpoint that responds with an Excel spreadsheet embedded in an Nx workspace.
 
 ## Notes
 
